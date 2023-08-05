@@ -1,15 +1,33 @@
 /* applied opensans font-style to all the elements */
-.body-style{
+.body-style {
     font-family: 'Open Sans', sans-serif;
 }
 
 /* Header design starts here */
-.header-title{
+.header-title {
     display: flex;
-    background-color: #F1AAB9;
+    background-color: #ECD2D8;
 }
 
-.header-element > h1{
- font-weight: bold;
- font-size:xx-large    
+.header-element {
+    border-radius: 20px;
+    margin: 250px 300px 0px 300px;
 }
+
+.header-element>h1 {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.header-image{
+    margin-right: 200px;
+}
+
+.all-button{
+    padding: 10px;
+    border-radius: 4px;
+    color: beige;
+    background-color: #E55473;
+}
+
+/* Main section design starts here */
