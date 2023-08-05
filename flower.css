@@ -1,0 +1,15 @@
+/* applied opensans font-style to all the elements */
+.body-style{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Header design starts here */
+.header-title{
+    display: flex;
+    background-color: #F1AAB9;
+}
+
+.header-element > h1{
+ font-weight: bold;
+ font-size:xx-large    
+}
