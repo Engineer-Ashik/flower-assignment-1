@@ -34,3 +34,26 @@
 .image-title{
     display: flex;
 }
+
+.image-link-a{
+    background-color: lightpink;
+    border-radius: 450px 450px 0px 0px;
+}
+
+.image-link-b{
+    background-color: lightblue;
+    border-radius: 450px 450px 0px 0px;
+}
+
+.image-link-c{
+    background-color: aquamarine;
+    border-radius: 450px 450px 0px 0px;
+}
+
+.links{
+    display: flex;
+}
+
+.Our-featured-flower>ul>li{
+    text-align: center;
+}
