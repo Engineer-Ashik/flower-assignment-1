@@ -31,3 +31,6 @@
 }
 
 /* Main section design starts here */
+.image-title{
+    display: flex;
+}
