@@ -33,27 +33,39 @@
 /* Main section design starts here */
 .image-title{
     display: flex;
+    margin-left: 100px;
+
 }
 
-.image-link-a{
+.image-link-a>img{
     background-color: lightpink;
     border-radius: 450px 450px 0px 0px;
+    padding: 5px 1px 0px 1px;
 }
 
-.image-link-b{
+.image-link-b>img{
     background-color: lightblue;
     border-radius: 450px 450px 0px 0px;
+    padding: 5px 1px 0px 1px;
 }
 
-.image-link-c{
+.image-link-c>img{
     background-color: aquamarine;
     border-radius: 450px 450px 0px 0px;
+    padding: 5px 1px 0px 1px;
+    
+}
+
+img{
+    margin: 0px 100px 0px 100px;
+    width: 400px;
+    height: 400px;
 }
 
 .links{
     display: flex;
 }
 
-.Our-featured-flower>ul>li{
-    text-align: center;
+main{
+   text-align: center;
 }
