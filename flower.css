@@ -1,9 +1,9 @@
-/* applied opensans font-style to all the elements */
+/*  applied opensans font-style to all the elements  */
 .body-style {
     font-family: 'Open Sans', sans-serif;
 }
 
-/* Header design starts here */
+/*  Header design starts here  */
 .header-title {
     display: flex;
     background-color: #ECD2D8;
@@ -30,7 +30,7 @@
     background-color: #E55473;
 }
 
-/* Main section design starts here */
+/*  Main section design starts here  */
 .image-title{
     display: flex;
     margin-left: 100px;
@@ -70,7 +70,7 @@ main{
    text-align: center;
 }
 
-/*extra section*/
+/*  extra section  */
 .all-extra-div{
     display: flex;
     background-color: rgb(182, 182, 182);
@@ -86,8 +86,26 @@ main{
     text-align: center;
 }
 
-.extra-div>figcaption{
-    padding: 5px 10px 0px 20px;
+.figcaption{
+    padding: 5px 10px 0px 0px;
     font-size: small;
-    margin: 0px 300px 0px 5px;
+    margin: 0px 360px 0px 0px;
+}
+
+/*  Hot Deal ! Sale Up To 25%  */
+.para-img{
+    display: flex;
+    background-color: #e7e0df;
+    margin-top: 30px;
+}
+
+.hot-deal-sale-up-to{
+    padding: 5px 10px 0px 0px;
+    margin: 0px 360px 0px 115px;
+}
+
+.rose-img{
+    margin: 0px 350px 0px 95px;
+    width: 400px;
+    height: 400px;
 }
