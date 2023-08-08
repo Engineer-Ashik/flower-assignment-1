@@ -125,3 +125,11 @@ main{
     display:flex;
     margin-left: 400px;
 }
+
+/* Review Section */
+.bonus{
+    margin-top: 30px;
+    text-align: center;
+    padding-left: 10px;
+    font-style: italic;
+}
