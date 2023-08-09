@@ -138,6 +138,14 @@ main{
 }
 
 /*Get the Latest Deal*/
-.get-head{
-    background-color: #E55473;
+.get-the-latest-deals{
+    background-image: url(/Rectangle\ 9.png);
+}
+
+.mail-button{
+    display: flex;
+    margin-left: 600px;
+}
+.input-mail{
+    width: 600px;
 }
