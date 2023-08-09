@@ -140,12 +140,20 @@ main{
 /*Get the Latest Deal*/
 .get-the-latest-deals{
     background-image: url(/Rectangle\ 9.png);
+    padding: 100px;
+    margin: 30px 390px 30px 390px;
 }
 
 .mail-button{
     display: flex;
-    margin-left: 600px;
+    margin-left: 150px;
 }
 .input-mail{
     width: 600px;
+}
+
+/* FlowerShop Footer*/
+.flowershop{
+    background-color: black;
+    text-align: center;
 }
