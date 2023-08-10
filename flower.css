@@ -156,4 +156,18 @@ main{
 .flowershop{
     background-color: black;
     text-align: center;
+    margin-top: 30px;
+    padding: 100px;
+}
+
+.flower{
+    color: #E55473;
+}
+
+.shop{
+    color:aliceblue;
+}
+
+.flowershop-para{
+    color:aliceblue;
 }
